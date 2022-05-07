@@ -9,6 +9,8 @@ body {
 }
 .container {
   width: 50%;
+}
+.weatherContainer {
   margin-top: 10%;
   border-radius: 10px;
   border-color: var(--color4);
